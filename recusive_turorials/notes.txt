@@ -1,0 +1,16 @@
+the differnce between the recusive principle
+ pros and cons of recussion
+ pros: bridges the gap between the elegance and complecity
+ cons: slowness in the CPU
+ pros:the need for complex loops and auxilary data structures
+ cons: can lead to memory leak
+ pros:can reduce time complexity easlily with memoization
+ cons: can be unnnecesary complex if poorly constructed
+ DIVIDE AND CONQUER ALGORITHMS
+ divide problems into servral smaller subproblems
+ Normally the subproblems are similar to the original
+ Conquer the subproblems by solving them recusively
+ Base_Case:sollve small enough problems by the brute force
+ Combine the solution to get a solution to the subproblems
+ and finally a solution to the origninal problem
+ divide and conquer algorthims are normally recusive
