@@ -1,3 +1,4 @@
+import java.util.Scanner
 public class JavaTestClass {
   public static void main (String[]args){
     int n = 10, firstNum = 0 , secondNum = 1;
