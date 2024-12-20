@@ -11,4 +11,5 @@ public class JavaTestClass {
       secondNum = nextNum;
     } 
   }
+  sccaner.close();
 }
